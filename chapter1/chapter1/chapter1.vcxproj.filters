@@ -42,5 +42,17 @@
     <ClCompile Include="px1_7_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="px1_7_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="px1_7_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="px1_7_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="px1_7_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

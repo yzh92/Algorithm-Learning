@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\chapter1",
+    "\\chapter1\\chapter1"
   ],
+  "SelectedNode": "\\chapter1\\chapter1",
   "PreviewInSolutionExplorer": false
 }

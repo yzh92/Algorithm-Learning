@@ -3,13 +3,22 @@
   "WorkspaceRootPath": "D:\\visual_studio_repo\\chapter1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -22,41 +31,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "p2_5.cpp",
-              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_5.cpp",
-              "RelativeDocumentMoniker": "..\\chapter2\\p2_5.cpp",
-              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_5.cpp",
-              "RelativeToolTip": "..\\chapter2\\p2_5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T13:28:08.743Z",
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\input.txt",
+              "RelativeDocumentMoniker": "..\\chapter2\\input.txt",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\input.txt",
+              "RelativeToolTip": "..\\chapter2\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T10:10:55.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "p2_2.cpp",
-              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_2.cpp",
-              "RelativeDocumentMoniker": "..\\chapter2\\p2_2.cpp",
-              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_2.cpp",
-              "RelativeToolTip": "..\\chapter2\\p2_2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "DocumentIndex": 1,
+              "Title": "p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T13:22:51.476Z",
+              "WhenOpened": "2024-04-16T10:01:36.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "p2_8\u9636\u4E58\u4E4B\u548C.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:19:05.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "p2_6.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_6.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_6.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_6.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T13:28:08.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "p2_2.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_2.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_2.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_2.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T13:22:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "p2_3.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_3.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_3.cpp",
@@ -64,21 +105,19 @@
               "RelativeToolTip": "..\\chapter2\\p2_3.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T13:22:48.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T13:22:48.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "p2_4.cpp",
-              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_4.cpp",
-              "RelativeDocumentMoniker": "..\\chapter2\\p2_4.cpp",
-              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_4.cpp",
-              "RelativeToolTip": "..\\chapter2\\p2_4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "DocumentIndex": 2,
+              "Title": "p2_5.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_5.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_5.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_5.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T13:22:13.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T13:22:13.552Z"
             }
           ]
         }

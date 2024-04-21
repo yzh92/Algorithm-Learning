@@ -21,11 +21,23 @@
     <ClCompile Include="p2_3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p2_4.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="p2_5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p2_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_8阶乘之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_7阶乘之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_9数据统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
   </ItemGroup>
 </Project>

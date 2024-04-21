@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\chapter1",
-    "\\chapter1\\chapter1"
+    "\\chapter1\\chapter1",
+    "\\chapter2"
   ],
-  "SelectedNode": "\\chapter1\\chapter1",
+  "SelectedNode": "\\chapter2",
   "PreviewInSolutionExplorer": false
 }

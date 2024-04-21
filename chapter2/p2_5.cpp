@@ -1,19 +1,20 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<math.h>
-//近似计算
+//3n+1问题
+
 int main() {
-	int t=1,fm=1,i = 1;
-	double sum = 0,n;
-	
-	do {
-		n = 1.0 / fm * t;
-		sum += n;
-		fm = 2 * i + 1;
-		fm = 2 * i + 1;
-		i++;
-		t = -1 * t;
-	} while (n > 1e-6);
-	printf("%.6f\n", sum);
+	int n2, count = 0;
+	scanf("%d", &n2);
+	//注意溢出问题 test:987654321
+	long long n = n2;
+	while (n>1) {
+		if (n % 2 == 0)
+			n = n / 2;
+		else
+			n = 3 * n + 1;
+		count++;
+	}
+	printf("%d", count);
 	return 0;
 }

@@ -3,10 +3,22 @@
   "WorkspaceRootPath": "D:\\visual_studio_repo\\chapter1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|D:\\visual_studio_repo\\chapter2\\p2_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -36,6 +48,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_12\u6570\u636E\u7EDF\u8BA1_BUG.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T12:55:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_11\u6570\u636E\u7EDF\u8BA1_fopen\u7248.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T12:46:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp",
+              "RelativeToolTip": "..\\chapter2\\p2_10\u6570\u636E\u7EDF\u8BA1_\u91CD\u5B9A\u5411\u7248.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T12:41:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".cpp",
+              "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\.cpp",
+              "ToolTip": "D:\\visual_studio_repo\\chapter2\\.cpp",
+              "RelativeToolTip": "..\\chapter2\\.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T12:40:52.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "input.txt",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\input.txt",
               "RelativeDocumentMoniker": "..\\chapter2\\input.txt",
@@ -48,20 +112,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
               "ToolTip": "D:\\visual_studio_repo\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
               "RelativeToolTip": "..\\chapter2\\p2_9\u6570\u636E\u7EDF\u8BA1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-16T10:01:36.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "p2_8\u9636\u4E58\u4E4B\u548C.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_8\u9636\u4E58\u4E4B\u548C.cpp",
@@ -73,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "p2_6.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_6.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_6.cpp",
@@ -85,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "p2_2.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_2.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_2.cpp",
@@ -97,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "p2_3.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_3.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_3.cpp",
@@ -109,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "p2_5.cpp",
               "DocumentMoniker": "D:\\visual_studio_repo\\chapter2\\p2_5.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\p2_5.cpp",

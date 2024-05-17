@@ -36,6 +36,18 @@
     <ClCompile Include="p2_9数据统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include=".cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_10数据统计_重定向版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_11数据统计_fopen版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p2_12数据统计_BUG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

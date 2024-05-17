@@ -48,6 +48,18 @@
     <ClCompile Include="p2_12数据统计_BUG.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="x2_1水仙花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="x2_2韩信点兵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="x2_3倒三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="x2_4子序列的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

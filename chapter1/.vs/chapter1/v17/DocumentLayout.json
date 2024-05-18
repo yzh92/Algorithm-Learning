@@ -3,7 +3,13 @@
   "WorkspaceRootPath": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81857D-42DD-4AF1-A028-E189B22B200B}|..\\chapter2\\chapter2.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_6\u6392\u5217.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +24,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp",
-              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp",
-              "RelativeDocumentMoniker": "..\\chapter2\\x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp",
-              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp",
-              "RelativeToolTip": "..\\chapter2\\x2_4\u5B50\u5E8F\u5217\u7684\u548C.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Title": "s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
+              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
+              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
+              "RelativeToolTip": "..\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-17T11:57:33.767Z",
+              "WhenOpened": "2024-05-18T12:32:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s1\u4FEE\u6539\u8F93\u51FA.cpp",
+              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
+              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
+              "RelativeToolTip": "..\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T12:28:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "x2_6\u6392\u5217.cpp",
+              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_6\u6392\u5217.cpp",
+              "RelativeDocumentMoniker": "..\\chapter2\\x2_6\u6392\u5217.cpp",
+              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_6\u6392\u5217.cpp",
+              "RelativeToolTip": "..\\chapter2\\x2_6\u6392\u5217.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T11:48:22.115Z",
               "EditorCaption": ""
             }
           ]

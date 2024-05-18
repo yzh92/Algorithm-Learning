@@ -60,6 +60,18 @@
     <ClCompile Include="x2_4子序列的和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="x2_5分数化小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="x2_6排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="s1修改输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="s2查看运行结果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

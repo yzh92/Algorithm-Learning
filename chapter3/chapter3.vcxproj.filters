@@ -24,5 +24,8 @@
     <ClCompile Include="..\chapter1\chapter3\p3_3蛇形填数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p3_4竖式问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

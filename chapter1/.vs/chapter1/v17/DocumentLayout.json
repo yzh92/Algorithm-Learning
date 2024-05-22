@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAA398A5-6013-4838-ABDD-48D1EACAC53E}|..\\chapter3\\chapter3.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_4\u7AD6\u5F0F\u95EE\u9898.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAA398A5-6013-4838-ABDD-48D1EACAC53E}|..\\chapter3\\chapter3.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AAA398A5-6013-4838-ABDD-48D1EACAC53E}|..\\chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -32,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "p3_4\u7AD6\u5F0F\u95EE\u9898.cpp",
+              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_4\u7AD6\u5F0F\u95EE\u9898.cpp",
+              "RelativeDocumentMoniker": "..\\chapter3\\p3_4\u7AD6\u5F0F\u95EE\u9898.cpp",
+              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_4\u7AD6\u5F0F\u95EE\u9898.cpp",
+              "RelativeToolTip": "..\\chapter3\\p3_4\u7AD6\u5F0F\u95EE\u9898.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T12:48:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "p3_3\u86C7\u5F62\u586B\u6570.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp",
               "RelativeDocumentMoniker": "chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp",
               "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp",
               "RelativeToolTip": "chapter3\\p3_3\u86C7\u5F62\u586B\u6570.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-20T12:00:48.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "p3_1\u9006\u5E8F\u8F93\u51FA.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\chapter3\\p3_1\u9006\u5E8F\u8F93\u51FA.cpp",
               "RelativeDocumentMoniker": "chapter3\\p3_1\u9006\u5E8F\u8F93\u51FA.cpp",
@@ -52,12 +68,11 @@
               "RelativeToolTip": "chapter3\\p3_1\u9006\u5E8F\u8F93\u51FA.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-20T12:00:35.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:00:35.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
@@ -65,12 +80,11 @@
               "RelativeToolTip": "..\\chapter2\\s2\u67E5\u770B\u8FD0\u884C\u7ED3\u679C.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-18T12:32:11.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T12:32:11.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "s1\u4FEE\u6539\u8F93\u51FA.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\s1\u4FEE\u6539\u8F93\u51FA.cpp",
@@ -82,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "x2_6\u6392\u5217.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter2\\x2_6\u6392\u5217.cpp",
               "RelativeDocumentMoniker": "..\\chapter2\\x2_6\u6392\u5217.cpp",

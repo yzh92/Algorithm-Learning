@@ -133,7 +133,10 @@
     <ClCompile Include="..\chapter1\chapter3\p3_2开灯问题.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\chapter1\chapter3\p3_3蛇形填数.cpp" />
+    <ClCompile Include="..\chapter1\chapter3\p3_3蛇形填数.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="p3_4竖式问题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAA398A5-6013-4838-ABDD-48D1EACAC53E}|..\\chapter3\\chapter3.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_7\u56DE\u6587\u8BCD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAA398A5-6013-4838-ABDD-48D1EACAC53E}|..\\chapter3\\chapter3.vcxproj|E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,12 +21,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "p3_7\u56DE\u6587\u8BCD.cpp",
+              "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_7\u56DE\u6587\u8BCD.cpp",
+              "RelativeDocumentMoniker": "..\\chapter3\\p3_7\u56DE\u6587\u8BCD.cpp",
+              "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_7\u56DE\u6587\u8BCD.cpp",
+              "RelativeToolTip": "..\\chapter3\\p3_7\u56DE\u6587\u8BCD.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T14:36:39.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp",
               "DocumentMoniker": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp",
               "RelativeDocumentMoniker": "..\\chapter3\\p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp",
               "ToolTip": "E:\\All_program_project\\visual_studio\\Algorithm-Learning\\chapter3\\p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp",
               "RelativeToolTip": "..\\chapter3\\p3_6WRRTYU\u952E\u76D8\u9519\u4F4D\u95EE\u9898.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-06T12:22:55.629Z",
               "EditorCaption": ""
